@@ -1,4 +1,4 @@
-# Blur_detection
+# Blur detection in images.
 
 A summary of blur detection based on:
 
